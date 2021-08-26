@@ -1,0 +1,33 @@
+.menu{
+    margin: 50px 0 !important;
+}
+
+.title-section {
+    padding: 200px 0 !important;
+}
+
+.btn-falar-representante{
+    margin: auto;
+    color: #FFF;
+    background-color: #333 ;
+}
+
+.btn-falar-representante:hover{
+    margin: auto;
+    color: #333;
+    background-color: #FFF;
+    cursor: pointer;
+}
+
+.arrow-up{
+    font-size: 50px !important;
+}
+
+.tugmax #accordion-second .accordion-heading .accordion-toggle > em {
+    background-color: #008C8C !important;
+}
+
+.phone{
+    color: #F7C221  !important;
+    font-size: 18px;
+}
