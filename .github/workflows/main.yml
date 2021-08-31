@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.HOST }}
         username: ${{ secrets.USER }}
         password: ${{ secrets.PASSWORD }}
-        server-dir: /tornav.com.br/web
+        server-dir: tornav.com.br/web/
