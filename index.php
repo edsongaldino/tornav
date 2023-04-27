@@ -451,10 +451,10 @@
             </div> <!-- end row 1 -->
     
                    
-    <!-- TESTIMONIAL SECTION -->              
+    <!--            
             <div class="testimonial text-center">
                 <h2 class="three" data-scroll-reveal="enter from the bottom after 0.2s">O que nossos clientes dizem</h2>
-            </div><!-- end title -->
+            </div>
             
             <div id="testimonial" class="owl-carousel owl-theme text-center">
                 <div class="testimonial"  data-scroll-reveal="enter from the bottom after 0.3s">
@@ -469,14 +469,14 @@
                     <p>Quisque est enim lacinia lobortis da viverra interdum, quam. In sagittis, eros faucibus ullamcorper nibh dolor</p>
                     <h1> DANIEL Smith </h1>
                 </div>
-            </div><!-- end #testimonial -->
+            </div>
             
             <div class="customNavigation">
                 <a class="btn prev"><i class="fa fa-angle-left fa-2x"></i></a>
                 <a class="btn next"><i class="fa fa-angle-right fa-2x"></i></a>
-            </div><!-- end customnav -->
-       </div> <!-- end container -->
-    </section><!-- Service and Testimonial End -->             
+            </div>
+       </div> 
+    </section>-->             
        
     <!--/ FEATURE SECTION -->  
     <section id="featured_parallax" class="parallax" style="background-image: url('demos/parallax_01.jpg');" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="20">
