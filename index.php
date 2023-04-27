@@ -475,8 +475,8 @@
                 <a class="btn prev"><i class="fa fa-angle-left fa-2x"></i></a>
                 <a class="btn next"><i class="fa fa-angle-right fa-2x"></i></a>
             </div>
-       </div> 
-    </section>-->             
+       </div>--> 
+    </section>             
        
     <!--/ FEATURE SECTION -->  
     <section id="featured_parallax" class="parallax" style="background-image: url('demos/parallax_01.jpg');" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="20">
